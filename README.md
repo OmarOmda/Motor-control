@@ -1,2 +1,2 @@
 # Motor-control
-control motor using Timer atmega32,keypad and LCD
+control motor using timer, atmega32,keypad and LCD
